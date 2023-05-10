@@ -1,3 +1,7 @@
+// Primeiros passos:
+// - Modificar a Bearer Token na linha 91;
+// - Verificar a lógica a partir da linha 133.
+
 #r "nuget: GraphQL, 7.4.1"
 #r "nuget: GraphQL.Client, 6.0.0"
 #r "nuget: GraphQL.Client.Serializer.Newtonsoft, 6.0.0"
